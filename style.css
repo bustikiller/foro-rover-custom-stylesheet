@@ -131,3 +131,12 @@ div.display-suite-content.group-right > div > div > div {
     position: relative;
   }
 }
+
+/* EXPOSED FILTER FORM */
+form.views-exposed-form > .form-item > label {
+  width: 40%
+}
+form.views-exposed-form > .form-item > input, 
+form.views-exposed-form > .form-item > select{
+  width: 50%
+}
