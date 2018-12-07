@@ -121,6 +121,12 @@ div.display-suite-content.group-right > div > div > div {
   border: 1px solid grey;
 }
 
+@media (max-width: 640px) {
+  div.display-suite-content {
+    width: 100% !important;
+  }
+}
+
 /* SEARCH FORM */
 @media (min-width: 1400px) {
   #block-business-responsive-theme-search{
