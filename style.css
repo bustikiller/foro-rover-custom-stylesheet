@@ -146,3 +146,9 @@ form.views-exposed-form > .form-item > input,
 form.views-exposed-form > .form-item > select{
   width: 50%
 }
+
+/* TABLE VIEWS */
+.views-element-container table th,
+.views-element-container table td {
+  padding: 10px 20px;
+}
